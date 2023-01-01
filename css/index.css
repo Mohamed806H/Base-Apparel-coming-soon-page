@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@300;400;600&display=swap');
+:root {
+  --font-base: 'Josefin Sans', sans-serif;
+  --DR-color: hsl(0, 36%, 70%);
+  --SR-color: hsl(0, 93%, 68%);
+  --DGR-color:hsl(0, 6%, 24%);
+  --LGB-color: hsl(210, 46%, 95%);
+  --WT-color:hsla(0, 0%, 100%, 1);
+  --Linear-color: 135deg, hsl(0, 0%, 100%), to hsl(0, 100%, 98%);
+  --lineartwo-color:135deg, hsl(0, 80%, 86%), to hsl(0, 74%, 74%); 
+
+}
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+  scroll-behavior: smooth;
+}
+body{
+  font-family: var(--font-base);
+  font-size: 16px;
+  min-height: 100vh;
+  overflow-x: hidden;
+}
