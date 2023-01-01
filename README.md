@@ -10,12 +10,12 @@ This is a solution to the [Base Apparel coming soon page challenge on Frontend M
 
 ## Screenshot
 
-
+![desktop-preview](https://user-images.githubusercontent.com/91362640/210160024-5efe0f40-6632-452a-8da7-ac1f747a117c.jpg)
 
 ## Links
 
-- Solution URL:
-- Live Site URL:
+- Solution URL:(https://www.frontendmentor.io/solutions/base-apparel-coming-soon-page-enOjKj5lUT)
+- Live Site URL:(https://mohamed806h.github.io/Base-Apparel-coming-soon-page/)
 
 ## Built with
 
